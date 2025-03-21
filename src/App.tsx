@@ -11,7 +11,7 @@ function App() {
             <div className="flex items-center space-x-2">
               <Scale className="h-8 w-8 text-blue-700" />
               <span className="text-2xl font-bold bg-gradient-to-r from-blue-700 to-blue-900 bg-clip-text text-transparent">
-                JUNIOR
+                JURIS
               </span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
@@ -151,7 +151,7 @@ function App() {
                 </div>
                 <div className="flex items-center">
                   <Mail className="h-6 w-6 text-blue-400 mr-4" />
-                  <span>contato@JUNIOR.com.br</span>
+                  <span>contato@juris.com.br</span>
                 </div>
                 <div className="flex items-center">
                   <MapPin className="h-6 w-6 text-blue-400 mr-4" />
@@ -212,10 +212,10 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 py-8">
           <div className="flex items-center justify-center space-x-2 mb-4">
             <Scale className="h-6 w-6 text-blue-400" />
-            <span className="text-white text-xl font-bold">JUNIOR</span>
+            <span className="text-white text-xl font-bold">JURIS</span>
           </div>
           <p className="text-center text-gray-400">
-            © 2024 JUNIOR Advocacia. Todos os direitos reservados.
+            © 2024 Juris Advocacia. Todos os direitos reservados.
           </p>
         </div>
       </footer>
